@@ -34,8 +34,10 @@ the speech bubbles drawn inside bar chart are confusing and unnecessary.
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
-
+The pie chart uses one colour of different shades which makes the separation between the segments harder to distinguish. (data respect)
+Additionally, there are no numbers on the chart to indicate the exact percentage of population density and total area> They are compared purely by size which is not an accurate measure. (mathematics respect)
+Also, population density and total area should not be depicted in the same chart.
+The wedge size is also confusing as certain wedges are larger than others, which makes reading the data and comparing the area harder.
 
 
 
