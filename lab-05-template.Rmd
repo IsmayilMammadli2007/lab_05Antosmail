@@ -21,8 +21,10 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
 
+Firstly, the number of Chinese speakers should be 1026 millions, not billions. (mathematics respect)
+Secondly, the comparison between the number of different language speakers using bars is very unclear. For example, the difference between the number of Hindi and Spanish speakers is 86 million, and the difference between the number of Spanish and English speakers is 299 million. However, the bar chart shows that there's significant distinction between Hindi and Spanish speakers, compared to difference between the number of Spanish and English speakers. (data respect)
+the speech bubbles drawn inside bar chart are confusing and unnecessary.
 
 
 
