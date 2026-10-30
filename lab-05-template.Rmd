@@ -48,7 +48,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+Firstly, there are no numbers on both x and y axes which makes the graph looks unclear mathematically. (mathematics repect) Moreover, the graph doesn’t explain the representation of size of each circle, and the colour of each circle mixed together which makes some of them unclear visually and is hard to read the words of the circle. (data respect)
 
 
 
